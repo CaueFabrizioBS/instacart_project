@@ -135,7 +135,7 @@ celerybeat.pid
 *.rdb
 *.aof
 *.pid
-*.csv
+dataframes/order_products.csv
 
 # RabbitMQ
 mnesia/
